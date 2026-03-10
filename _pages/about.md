@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-<img src="https://zhedong-lin.github.io/Zhedong-Lin//images/personal.jpg"
+<img src="/images/personal.jpg"
      alt="Research overview"
      style="float: left; margin: 0 20px 15px 0; width: 180px;">
 
