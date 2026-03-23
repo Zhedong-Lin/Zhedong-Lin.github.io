@@ -33,12 +33,12 @@ My work aims to advance the capabilities of AI in generating consistent, high-qu
 
 
 ## News and Updates
-
-- **2026.01:** 🎉 One paper was accepted by **Artificial Intelligence Review** (SCI Q1 Top).  
-- **2025.12:** 🎉 Won the **Best Multimedia Award** at **ACM MM Asia**.  
-- **2025.10:** 🎓 I received the **China Scholarship Council (CSC) Full Scholarship** for my PhD studies at **University of Auckland**, starting in 2026.  
-- **2025.10:** 🎉 One paper was accepted by **ACM MM Asia** (CCF-C).  
-- **2025.06:** 🎓 Graduated with a **BSc in Computer Science and Technology** from **Southwest University (SWU)**, and awarded **Outstanding Graduate** honor.
+- **2026.03:** 🚀 Contributed to the open-source project **Code Vibe Reading(https://github.com/XShuhan/Code-vibe-reading)**, a VS Code extension for AI-assisted code understanding and navigation.
+- **2026.01:** 🎉 One paper was accepted by **Artificial Intelligence Review(https://link.springer.com/journal/10462)** (SCI Q1 Top).  
+- **2025.12:** 🎉 Won the **Best Multimedia Award** at **ACM MM Asia 2025(https://mmasia2025.org/)**.  
+- **2025.10:** 🎓 I received the **China Scholarship Council (CSC) Full Scholarship(https://www.csc.edu.cn/chuguo)** for my PhD studies at **University of Auckland**, starting in 2026.  
+- **2025.10:** 🎉 One paper was accepted by **ACM MM Asia 2025(https://mmasia2025.org/)** (CCF-C).  
+- **2025.06:** 🎓 Graduated with a **BSc in Computer Science and Technology** from **Southwest University (SWU)((https://www.swu.edu.cn/))**, and awarded **Outstanding Graduate** honor.
 
 
 
@@ -53,6 +53,14 @@ Artificial Intelligence Review (JCR Q1, SCI Q1 Top), 2026
 Zhongsheng Wang, Ming Lin, **Zhedong Lin**, Yaser Shakib, Qian Liu, Jiamou Liu  
 ACM Multimedia Asia 2025 (CCF-C, Best Multimedia Award)  
 [Paper](https://dl.acm.org/doi/full/10.1145/3743093.3770985)
+
+
+---
+
+## Projects
+
+🚀 **Code Vibe Reading** — VS Code extension for AI-assisted code understanding and navigation  
+  [Project](https://github.com/XShuhan/Code-vibe-reading)
 
 
 ## Awards & Honors
