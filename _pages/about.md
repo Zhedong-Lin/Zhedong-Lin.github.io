@@ -13,7 +13,7 @@ redirect_from:
      alt="Research overview"
      style="float: left; margin: 0 20px 15px 0; width: 180px;">
 
-Hi, I’m **Zhedong Lin (林哲栋)**, an MSc student in **Artificial Intelligence** at the [**University of Auckland**](https://www.auckland.ac.nz/en.html). I received my undergraduate degree in **Computer Science and Technology** from [**Southwest University**](https://www.swu.edu.cn/) in 2024. I am currently working under the guidance of [**Prof. Jiamou Liu**](https://www.liuailab.org/), and my research focuses on **LLMs**, **multimodal generative AI**, and applications such as **text-to-image systems**, **image editing**, and **controllable diffusion models**. If you are interested in my research or would like to discuss potential collaboration, feel free to contact me at **[zlin629@aucklanduni.ac.nz](mailto:zlin629@aucklanduni.ac.nz)**.
+Hi, I’m **Zhedong Lin (林哲栋)**, an MSc student in **Artificial Intelligence** at the [**University of Auckland**](https://www.auckland.ac.nz/en.html). I received my undergraduate degree in **Computer Science and Technology** from [**Southwest University**](https://www.swu.edu.cn/) in 2025. I am currently working under the guidance of [**Prof. Jiamou Liu**](https://www.liuailab.org/), and my research focuses on **LLMs**, **multimodal generative AI**, and applications such as **text-to-image systems**, **image editing**, and **controllable diffusion models**. If you are interested in my research or would like to discuss potential collaboration, feel free to contact me at **[zlin629@aucklanduni.ac.nz](mailto:zlin629@aucklanduni.ac.nz)**.
 
 <div style="clear: both;"></div>
 
