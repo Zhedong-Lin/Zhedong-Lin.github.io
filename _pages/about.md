@@ -13,23 +13,22 @@ redirect_from:
      alt="Research overview"
      style="float: left; margin: 0 20px 15px 0; width: 180px;">
 
-Hi, I’m **Zhedong Lin (林哲栋)**, an MSc student in **Artificial Intelligence** at the [**University of Auckland**](https://www.auckland.ac.nz/en.html). I received my undergraduate degree in **Computer Science and Technology** from [**Southwest University**](https://www.swu.edu.cn/) in 2025. I am currently working under the guidance of [**Prof. Jiamou Liu**](https://www.liuailab.org/), and my research focuses on **LLMs**, **multimodal generative AI**, and applications such as **text-to-image systems**, **image editing**, and **controllable diffusion models**. If you are interested in my research or would like to discuss potential collaboration, feel free to contact me at **[zlin629@aucklanduni.ac.nz](mailto:zlin629@aucklanduni.ac.nz)**.
+Hi, I’m **Zhedong Lin (林哲栋)**, an MSc student in **Artificial Intelligence** at the [**University of Auckland**](https://www.auckland.ac.nz/en.html). I received my undergraduate degree in **Computer Science and Technology** from [**Southwest University**](https://www.swu.edu.cn/) in 2025. I am currently working under the guidance of [**Prof. Jiamou Liu**](https://www.liuailab.org/), and my research focuses on **LLMs**, **multimodal generative AI**, and applications such as **text-to-image systems**, **text-to-video generation**, **image and video editing**, and **controllable diffusion models**. I will soon begin my PhD studies at the [**University of Auckland**](https://www.auckland.ac.nz/en.html), continuing under the supervision of [**Prof. Jiamou Liu**](https://www.liuailab.org/). If you are interested in my research or would like to discuss potential collaboration, feel free to contact me at **[zlin629@aucklanduni.ac.nz](mailto:zlin629@aucklanduni.ac.nz)**.
+
 
 <div style="clear: both;"></div>
 
 
-
 ## Research Interests
 
-My research focuses on exploring cutting-edge techniques in **multimodal generative AI**, particularly **text-to-image generation** and **image editing**. I am particularly interested in applying **large-scale foundation models** to create coherent and realistic outputs across different modalities.
+My research focuses on **multimodal generative AI**, with particular interests in **text-to-image and text-to-video generation**, **image and video editing**, **controllable diffusion models**, and **LLMs**. I am interested in developing foundation-model-based methods that generate coherent, high-quality, and controllable visual content across different modalities.
 
-- **Text-to-Image (T2I) Generation**: Focusing on improving the consistency and quality of AI-generated images from textual descriptions.
-- **Multimodal Systems**: Exploring methods to effectively fuse data from various modalities to achieve enhanced generative capabilities.
-- **Controllable Diffusion Models**: Developing models that allow fine-grained control over image generation processes, making them adaptable for various creative tasks.
-- **AI-driven Image Editing**: Investigating the use of AI to edit images in a manner that retains contextual consistency and enhances user-driven creativity.
+* **Text-to-Image and Text-to-Video Generation**: Generating high-quality visual content from textual descriptions with better consistency and semantic alignment.
+* **Image and Video Editing**: Enabling flexible, user-guided editing while preserving contextual and visual coherence.
+* **Controllable Diffusion Models**: Improving fine-grained control over generative processes for creative and practical applications.
+* **Multimodal Foundation Models**: Exploring how LLMs and multimodal models can support generation, editing, and cross-modal understanding.
 
-My work aims to advance the capabilities of AI in generating consistent, high-quality, and editable visual content, with applications in creative industries, research, and education.
-
+My work aims to advance AI systems for creating consistent, controllable, and editable visual content.
 
 
 ## News and Updates
