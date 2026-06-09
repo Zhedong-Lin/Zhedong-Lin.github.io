@@ -7,58 +7,41 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**MSc in Artificial Intelligence**<br>
+University of Auckland
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**BSc in Computer Science and Technology**<br>
+Southwest University, 2024
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Interests
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Multimodal generative AI
+- Text-to-image generation
+- Image editing
+- Controllable diffusion models
+- Storybook illustration consistency
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Publications
+
+**Narratology Meets Text-to-Image: A Survey of Consistency in AI Generated Storybook Illustrations**<br>
+**Zhedong Lin**, Zhongsheng Wang, Qian Liu, Xinyu Zhang, Jiamou Liu<br>
+*Artificial Intelligence Review* (JCR Q1, SCI Q1 Top), 2026
+
+**CharCom: Composable Identity Control for Multi-Character Story Illustration**<br>
+Zhongsheng Wang, Ming Lin, **Zhedong Lin**, Yaser Shakib, Qian Liu, Jiamou Liu<br>
+*ACM Multimedia Asia 2025* (CCF-C, Best Multimedia Award), 2025
+
+## Teaching
+
+**Teaching Assistant**, COMPSCI 120: *Mathematics for Computer Science*<br>
+University of Auckland
+
+## Awards and Honors
+
+- China Scholarship Council (CSC) Full Scholarship
+- University of Auckland High Achiever Scholarship
+- University of Auckland First in Course Award
+- Outstanding Graduate at Southwest University
+- Best Multimedia Award, ACM Multimedia Asia 2025
