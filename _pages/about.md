@@ -32,12 +32,16 @@ My work aims to advance AI systems for creating consistent, controllable, and ed
 
 
 ## News and Updates
-- **2026.03:** 🚀 Contributed to the open-source project [**Code Vibe Reading**](https://github.com/XShuhan/Code-vibe-reading), a VS Code extension for AI-assisted code understanding and navigation.
-- **2026.01:** 🎉 One paper was accepted by [**Artificial Intelligence Review**](https://link.springer.com/journal/10462) (SCI Q1 Top).  
-- **2025.12:** 🎉 Won the **Best Multimedia Award** at [**ACM MM Asia 2025**](https://mmasia2025.org/).  
-- **2025.10:** 🎓 I received the [**China Scholarship Council (CSC) Full Scholarship**](https://www.csc.edu.cn/chuguo) for my PhD studies at [**University of Auckland**](https://www.auckland.ac.nz/en.html), starting in 2026.  
-- **2025.10:** 🎉 One paper was accepted by [**ACM MM Asia 2025**](https://mmasia2025.org/) (CCF-C).  
-- **2025.06:** 🎓 Graduated with a **BSc in Computer Science and Technology** from [**Southwest University**](https://www.swu.edu.cn/), and awarded **Outstanding Graduate** honor.
+
+* **2026.07:** 🎉 One paper was accepted by [**ACM Multimedia 2026 (ACM MM 2026)**](https://2026.acmmm.org/) (CCF-A).
+* **2026.07:** 🎤 Delivered a guest lecture on **Agentic AI** at **WHMC**.
+* **2026.03:** 🚀 Contributed to the open-source project [**Code Vibe Reading**](https://github.com/XShuhan/Code-vibe-reading), a VS Code extension for AI-assisted code understanding and navigation.
+* **2026.01:** 🎉 One paper was accepted by [**Artificial Intelligence Review**](https://link.springer.com/journal/10462) (SCI Q1 Top).
+* **2025.12:** 🎉 Won the **Best Multimedia Award** at [**ACM MM Asia 2025**](https://mmasia2025.org/).
+* **2025.10:** 🎓 Received the [**China Scholarship Council (CSC) Full Scholarship**](https://www.csc.edu.cn/chuguo) for PhD studies at the [**University of Auckland**](https://www.auckland.ac.nz/en.html), starting in 2026.
+* **2025.10:** 🎉 One paper was accepted by [**ACM MM Asia 2025**](https://mmasia2025.org/) (CCF-C).
+* **2025.06:** 🎓 Graduated with a **BSc in Computer Science and Technology** from [**Southwest University**](https://www.swu.edu.cn/) and received the **Outstanding Graduate** honor.
+
 
 
 
