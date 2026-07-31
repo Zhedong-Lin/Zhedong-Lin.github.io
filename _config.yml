@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhedong Lin"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Multimodal Generative AI · LLMs"
   location         : "China / New Zealand"
   employer         :
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           :
+  github           : "Zhedong-Lin"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
