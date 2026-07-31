@@ -26,7 +26,7 @@ Southwest University, 2025
 ## Publications
 
 **SDO: Subspace Deconflicting Operator for Multi-Adapter Composition**<br>
-[***Zhongsheng Wang***](https://openreview.net/profile?id=~Zhongsheng_Wang1), [***Zhedong Lin***](https://openreview.net/profile?id=~Zhedong_Lin1), [***Qian Liu***](https://openreview.net/profile?id=~Qian_Liu11), [***Xinyu Zhang***](https://openreview.net/profile?id=~Xinyu_Zhang3), [***Jiamou Liu***](https://openreview.net/profile?id=~Jiamou_Liu1)<br>
+Zhongsheng Wang, **Zhedong Lin**, Qian Liu, Xinyu Zhang, Jiamou Liu<br>
 *ACM Multimedia 2026* (CCF-A), 2026<br>
 [Paper](https://openreview.net/forum?id=uQCVoZkKG7)
 
